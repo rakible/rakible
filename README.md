@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakible
+- 👋 Hi, I’m Rakib
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Here
